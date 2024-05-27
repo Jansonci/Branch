@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Brad/Brad.iml" filepath="$PROJECT_DIR$/Brad/Brad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BranchAndBoundDemo.iml" filepath="$PROJECT_DIR$/BranchAndBoundDemo.iml" />
+    </modules>
+  </component>
+</project>
